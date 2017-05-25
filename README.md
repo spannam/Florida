@@ -1,6 +1,4 @@
-#Florida 
-<br>
-<strong>ART 254 | Kinetic Type student name: Ashton Spann <br>
+ <strong>ART 254 | Kinetic Type student name: Ashton Spann <br>
 Spring 2014 | Miami University | Graphic Design instructor: Dennis Cheatham</strong>
 <br>
 <strong>Responsive Project:</strong> Create a responsive mini site for a state assigned<br>
