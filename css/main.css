@@ -129,7 +129,6 @@ body {
 	width: 25%;
 		float: left;
 		text-align: center;
-	padding-top: 15px;
 }
 
 a {
@@ -147,7 +146,7 @@ a:hover{
 
 
 .header {
-	width: 800px;
+	width: 42%;
 	height: 300px;
 	margin-left: auto;
 	margin-right: auto;
@@ -162,7 +161,7 @@ a:hover{
 			h1 {
 				font-family: 'Merienda', cursive;	
 				font-weight: 700;
-				font-size: 1000%;
+				font-size: 9em;
 				color: rgba(0, 0, 0, 0.74);
 				align-items: center;
 				margin: 0px;
@@ -181,7 +180,6 @@ h2 {
 
 #wrapper {
 	width: 42%;
-	height: 900px;
 	margin:auto;
 	padding: 20px;
 	background-color: rgba(11, 152, 204, 0.49);
