@@ -221,11 +221,12 @@ section {
 	float: right;
 	margin-left: 20px;
 		color: rgb(255, 255, 255);
+	padding-top: 30px;
 }
 
 .caption p{
 	clear: right;
-	text-align: right;
+	text-align: left;
 	padding-left: 0;
 	padding-top: 5px;
 	font-size: 10px;
