@@ -19,7 +19,7 @@ total 88 of 100 <br>
 x 2<br>
 <strong>points earned 176 of 200</strong>
 <br>
-
+<br>
 <strong>ADDITIONAL COMMENTS</strong><br>
 Be careful that the text and images further down your page all align vertically as the
 page gets smaller to a mobile size.Currently they are overshooting the boundaries of the
