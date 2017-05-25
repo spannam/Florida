@@ -7,7 +7,7 @@ Spring 2014 | Miami University | Graphic Design instructor: Dennis Cheatham</str
 <br>
 Demonstrate an ability to create a cohesive color palette. 10 9 <br>
 Effectively use typography to create a clear information hierarchy. 10 9<br>
-Effectively communicate the film’s style and attitude via image, color, and typography. 10 10<br>
+Successfully implement at least one interactive component to enhance user experience. 10 10<br>
 Demonstrate an ability to craft a multi-column layout in HTML/CSS. 10 8<br>
 Successfully design a web page whose content is usable when all styling is removed. 10 9<br>
 Effectively build pages whose code is cleanly and efficiently written. 10 9<br>
