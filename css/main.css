@@ -179,10 +179,9 @@ h2 {
 }
 
 #wrapper {
-	width: 800px;
+	width: 60%;
 	height: 900px;
-	margin-left: auto;
-	margin-right: auto;
+	margin:auto;
 	padding: 20px;
 	background-color: rgba(11, 152, 204, 0.49);
 		border: 1px solid rgb(250, 250, 250);
@@ -233,7 +232,6 @@ section {
 
 aside {
 	float: right;
-	width: 300px;
 	padding: 20px;
 	border-left-style: solid;
 	border-left-color: rgb(255, 255, 255);
@@ -423,7 +421,7 @@ footer {
     /* Style adjustments for large screens */
 
 body, #wrapper, .header, .menu ul, .menu li , h1, article, aside, #lavender{
-	width: 62.5%;
+	margin: auto;
 }
 
 }
