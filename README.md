@@ -1,61 +1,41 @@
-# [HTML5 Boilerplate](http://html5boilerplate.com)
+#Florida 
+<br>
+<strong>ART 254 | Kinetic Type student name: Ashton Spann <br>
+Spring 2014 | Miami University | Graphic Design instructor: Dennis Cheatham</strong>
+<br>
+<strong>Responsive Project:</strong> Create a responsive mini site for a state assigned<br>
+<br>
+Demonstrate an ability to create a cohesive color palette. 10 9 <br>
+Effectively use typography to create a clear information hierarchy. 10 9<br>
+Effectively communicate the film’s style and attitude via image, color, and typography. 10 10<br>
+Demonstrate an ability to craft a multi-column layout in HTML/CSS. 10 8<br>
+Successfully design a web page whose content is usable when all styling is removed. 10 9<br>
+Effectively build pages whose code is cleanly and efficiently written. 10 9<br>
+Effectively design a responsive layout conducive to mobile device usage. 10 8 <br>
+Demonstrate careful attention to visual elements that promote usability at mobile sizes. 10 8<br>
+Demonstrate a careful attention to detailed execution. 10 8<br>
+<br>
+total 88 of 100 <br>
+x 2<br>
+<strong>points earned 176 of 200</strong>
+<br>
 
-HTML5 Boilerplate is a professional front-end template for building fast,
-robust, and adaptable web apps or sites.
+<strong>ADDITIONAL COMMENTS</strong><br>
+Be careful that the text and images further down your page all align vertically as the
+page gets smaller to a mobile size.Currently they are overshooting the boundaries of the
+main color area. Also, once the sun disappears, there's an opportunity to balance
+outsizing and positioning of the text and images that remain. Watch that top menu as
+you have some passing in it that forces it from being centered. Your upcoming site is in
+good shape to remedy these issues.
+<br>
+<br>
+<strong>CALCULATIONS</strong><br>
+project points 176<br>
+deductions & bonuses 0<br>
+<br>
+EARNED PROJECT POINTS 176<br>
+x 0.5
+<br>
+<strong>GRADE AS PERCENTAGE 88 </strong><br>
+<strong>LETTER GRADE B+</strong>
 
-This project is the product of many years of iterative development and combined
-community knowledge. It does not impose a specific development philosophy or
-framework, so you're free to architect your code in the way that you want.
-
-* Source: [https://github.com/h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate)
-* Homepage: [http://html5boilerplate.com](http://html5boilerplate.com)
-* Twitter: [@h5bp](http://twitter.com/h5bp)
-
-
-## Quick start
-
-Choose one of the following options:
-
-1. Download the latest stable release from
-   [html5boilerplate.com](http://html5boilerplate.com/) or a custom build from
-   [Initializr](http://www.initializr.com).
-2. Clone the git repo — `git clone
-   https://github.com/h5bp/html5-boilerplate.git` - and checkout the tagged
-   release you'd like to use.
-
-
-## Features
-
-* HTML5 ready. Use the new elements with confidence.
-* Cross-browser compatible (Chrome, Opera, Safari, Firefox 3.6+, IE6+).
-* Designed with progressive enhancement in mind.
-* Includes [Normalize.css](http://necolas.github.com/normalize.css/) for CSS
-  normalizations and common bug fixes.
-* The latest [jQuery](http://jquery.com/) via CDN, with a local fallback.
-* The latest [Modernizr](http://modernizr.com/) build for feature detection.
-* IE-specific classes for easier cross-browser control.
-* Placeholder CSS Media Queries.
-* Useful CSS helpers.
-* Default print CSS, performance optimized.
-* Protection against any stray `console.log` causing JavaScript errors in
-  IE6/7.
-* An optimized Google Analytics snippet.
-* Apache server caching, compression, and other configuration defaults for
-  Grade-A performance.
-* Cross-domain Ajax and Flash.
-* "Delete-key friendly." Easy to strip out parts you don't need.
-* Extensive inline and accompanying documentation.
-
-
-## Documentation
-
-Take a look at the [documentation table of contents](doc/TOC.md). This
-documentation is bundled with the project, which makes it readily available for
-offline reading and provides a useful starting point for any documentation you
-want to write about your project.
-
-
-## Contributing
-
-Anyone and everyone is welcome to [contribute](CONTRIBUTING.md). Hundreds of
-developers have helped make the HTML5 Boilerplate what it is today.
